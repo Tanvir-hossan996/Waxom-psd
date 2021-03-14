@@ -54,14 +54,6 @@ $(document).ready(function () {
 
     var mixer = mixitup(containerEl);
 
-    //    video-parallex 
-
-    $(".video-bg").parallax({
-
-
-        imageSrc: "../img/video-banner.jpg",
-
-    });
 
     //    veno box for video
 
@@ -97,14 +89,7 @@ $(document).ready(function () {
 
     });
 
-    //    royal parralex
 
-    $(".royal-bg").parallax({
-
-
-        imageSrc: "../img/royal-banner.jpg",
-
-    });
 
 
 

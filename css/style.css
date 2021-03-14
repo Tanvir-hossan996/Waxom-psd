@@ -551,7 +551,7 @@ img {
 
 .video-bg {
 
-    background: transparent;
+    background: url(../img/video-banner.jpg) no-repeat center / cover;
     padding-top: 210px;
     padding-bottom: 205px;
 
@@ -1011,7 +1011,7 @@ img {
 
 .royal-bg {
 
-    background: transparent;
+    background: url(../img/royal-banner.jpg) no-repeat center / cover;
     padding: 125px 0px;
     z-index: 9999;
     position: relative;
